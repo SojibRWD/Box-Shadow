@@ -16,6 +16,7 @@
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    box-sizing: border-box;
 }
 .box {
     margin: 20px;
