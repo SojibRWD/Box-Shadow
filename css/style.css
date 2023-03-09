@@ -16,10 +16,6 @@
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    transition: .4s;
-}
-.box-container:hover {
-    transform: scale(1.2);
 }
 .box {
     margin: 20px;
@@ -49,4 +45,5 @@
 }
 .box:hover {
     box-shadow: 7px 7px 15px #fff;
+    transform: scale(1.1);
 }
